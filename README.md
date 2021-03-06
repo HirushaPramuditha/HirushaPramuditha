@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **anything related to frontend and python**
 
-- 📫 How to reach me **hirushapramuditha26@gmail.com**
-
 - ⚡ Fun fact **I've never used Vim**
 
 ---
