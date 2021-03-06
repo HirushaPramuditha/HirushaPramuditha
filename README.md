@@ -10,7 +10,9 @@
 - 📫 How to reach me **hirushapramuditha26@gmail.com**
 
 - ⚡ Fun fact **I've never used Vim**
+
 ---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hiru_pramuditha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hiru_pramuditha" height="30" width="40" /></a>
