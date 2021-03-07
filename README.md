@@ -44,6 +44,6 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HirushaPramuditha&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <h2>Support Me</h2>
-<div align="center">
+<div align="center" style="margin-top: 40px;">
 <p><a href="https://www.buymeacoffee.com/pramuditha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pramuditha" /></a></p><br><br>
 </div>
