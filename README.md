@@ -10,16 +10,16 @@
 - ⚡ Fun fact **I've never used Vim**
 
 ## Connect with me  
+
 <div align="center">
-<a href="https://github.com/HirushaPramuditha" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://github.com/HirushaPramuditha">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/14728797" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href = "mailto: hirushapramuditha26@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  style="margin-bottom: 5px;" /></a>
-<a href="https://twitter.com/Hiru_Pramuditha"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>  
-</div>  
+<a href="https://stackoverflow.com/users/14728797">
+<img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt=stackoverflow style="margin-bottom: 5px;"></a>
+<a href = "mailto: hirushapramuditha26@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  style="margin-bottom: 5px;" /></a>
+<a href="https://twitter.com/Hiru_Pramuditha"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"  style="margin-bottom: 5px;"/></a>  
+</div> 
 
 ## Languages & Tools
 
