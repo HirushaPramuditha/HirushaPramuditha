@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hirusha Pramuditha</h1>
 <h3 align="center">A passionate Full Stack Dev student</h3>
 
-- 🔭 I’m currently working on **my first Flask web app**
+[//]: # (- 🔭 I’m currently working on **my first Node app**)
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **anything related to Frontend and Python**
 
