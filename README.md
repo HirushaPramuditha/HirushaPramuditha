@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React jS**
 
-- 💬 Ask me about **anything related to Frontend and Python**
+- 💬 Ask me about **anything related to Web Development**
 
 - ⚡ Fun fact **I've never used Vim**
 
