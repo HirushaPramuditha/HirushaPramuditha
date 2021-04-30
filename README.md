@@ -3,7 +3,7 @@
 
 [//]: # (- 🔭 I’m currently working on **my first Node app**)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React jS**
 
 - 💬 Ask me about **anything related to Frontend and Python**
 
