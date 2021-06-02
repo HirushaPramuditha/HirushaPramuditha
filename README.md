@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hirusha Pramuditha</h1>
 <h3 align="center">A passionate Full Stack Dev student</h3>
 
-[//]: # (- 🔭 I’m currently working on **my first Node app**)
+- 🔭 I’m currently working on **A React JS project**)
 
 - 🌱 I’m currently learning **React jS**
 
-- 💬 Ask me about **anything related to Web Development**
+- 💬 Ask me about **Python, React, JavaScript or anything related to frontend**
 
 - ⚡ Fun fact **I've never used Vim**
 
