@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hirusha Pramuditha</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **A React JS project** - 🌱 I’m currently learning
-**React JS** - 💬 Ask me about **Python, React, JavaScript or anything related
-to frontend** 
+- 🔭 I’m currently working on **A REST API** 
+- 🌱 I’m currently learning **Express.js**
+- 💬 Ask me about **Anything about anything in my skill set**
 
 ## Connect with me
 
