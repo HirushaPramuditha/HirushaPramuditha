@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hirusha Pramuditha</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **A React JS project** 
-- 🌱 I’m currently learning
-**React JS** 
-- 💬 Ask me about **Python, React, JavaScript or anything related
-to frontend**
-
-## Connect with me
+- 🔭 I’m currently working on **A React JS project** - 🌱 I’m currently learning
+**React JS** - 💬 Ask me about **Python, React, JavaScript or anything related
+to frontend** ## Connect with me
 
 <div align="center">
   <a href="https://github.com/HirushaPramuditha">
@@ -39,18 +35,29 @@ to frontend**
 
 ## Languages and Tools
 <p align="center">
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
+  <a href="https://www.python.org" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-      alt="bash"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://getbootstrap.com" target="_blank">
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+  >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
       width="40"
       height="40"
     />
@@ -63,6 +70,22 @@ to frontend**
       height="40"
     />
   </a>
+  <a href="https://golang.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+      alt="go"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -71,18 +94,42 @@ to frontend**
       height="40"
     />
   </a>
-  <a href="https://www.figma.com/" target="_blank">
+  <a href="https://reactjs.org/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://firebase.google.com/" target="_blank">
+  <a href="https://getbootstrap.com" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      alt="express"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.electronjs.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
+      alt="electron"
       width="40"
       height="40"
     />
@@ -91,6 +138,22 @@ to frontend**
     <img
       src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
       alt="flask"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      alt="linux"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+      alt="bash"
       width="40"
       height="40"
     />
@@ -111,70 +174,34 @@ to frontend**
       height="40"
     />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img
-      src="https://reactnative.dev/img/header_logo.svg"
-      alt="reactnative"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.selenium.dev" target="_blank">
     <img
       src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
       alt="selenium"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://postman.com" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      alt="figma"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.blender.org/" target="_blank">
+    <img
+      src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
+      alt="blender"
       width="40"
       height="40"
     />
