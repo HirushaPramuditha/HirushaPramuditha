@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **A React JS project** - 🌱 I’m currently learning
 **React JS** - 💬 Ask me about **Python, React, JavaScript or anything related
-to frontend** ## Connect with me
+to frontend** 
+
+## Connect with me
 
 <div align="center">
   <a href="https://github.com/HirushaPramuditha">
