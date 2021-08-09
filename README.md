@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A REST API** 
 - 🌱 I’m currently learning **Express.js**
-- 💬 Ask me about **Anything about anything in my skill set**
+- 💬 Ask me about **Anything in my skill set**
 
 ## Connect with me
 
