@@ -35,7 +35,7 @@
   /></a>
 </div>
 
-## Languages and Tools
+## My skills
 <p align="center">
   <a href="https://www.python.org" target="_blank">
     <img
