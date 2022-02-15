@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hirusha Pramuditha</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **A REST API** 
-- 🌱 I’m currently learning **Express.js**
+- 🔭 I’m currently working on **A Fullstack Web App** 
+- 🌱 I’m currently learning **Firebase**
 - 💬 Ask me about **Anything in my skill set**
 
 ## Connect with me
