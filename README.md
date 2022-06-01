@@ -2,8 +2,10 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **A Fullstack Web App** 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **Rust**
 - 💬 Ask me about **Anything in my skill set**
+- 📫 Reach me via [Email](hirushapramuditha26@gmail.com).
+- ⚡ Fun Fact: **I use Arch btw**
 
 ## Connect with me
 
@@ -172,6 +174,22 @@
       height="40"
     />
   </a>
+    </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="firebase"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
     <a href="https://expressjs.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -195,7 +213,6 @@
       width="40"
       height="40"
     />
-  </a>
 </div>
 
 </td><td valign="top" width="33%">
