@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **A Fullstack Web App** 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Flutter**
 - 💬 Ask me about **Anything in my skill set**
 - 📫 Reach me via [Email](hirushapramuditha26@gmail.com).
 - ⚡ Fun Fact: **I use Arch btw**
